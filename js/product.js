@@ -2,37 +2,37 @@
 const products = [
     {
         img: "./img/home_page/01-Weyoung.jpg",
-        title: "Weyoung",
+        title: "Weyoung 01",
         price: "$22"
     },
     {
         img: "./img/home_page/03-Weyoung.jpg",
-        title: "Weyoung",
+        title: "Weyoung 03",
         price: "$22"
     },
     {
         img: "./img/home_page/03-Weyoung.jpg",
-        title: "Weyoung",
+        title: "Weyoung 03",
         price: "$22"
     },
     {
         img: "./img/home_page/21N-Weyoung.jpg",
-        title: "Weyoung",
+        title: "Weyoung 21N",
         price: "$22"
     },
     {
         img: "./img/home_page/23C-Weyoung.jpg",
-        title: "Weyoung",
+        title: "Weyoung 23C",
         price: "$22"
     },
     {
         img: "./img/home_page/25N-Weyoung.jpg",
-        title: "Weyoung",
+        title: "Weyoung 25N",
         price: "$22"
     },
     {
         img: "./img/home_page/27N-Weyoung.jpg",
-        title: "Weyoung",
+        title: "Weyoung 27N",
         price: "$22"
     },
 ];
